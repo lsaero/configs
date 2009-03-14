@@ -1,0 +1,13 @@
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+URxvt.reverseVideo: 1
+URxvt.scrollBar: 0
+URxvt.imLocale: de_DE.UTF-8
+URxvt*foreground: grey6
+URxvt.transparent: true
+URxvt.tintColor: #000000
+URxvt.shading: 50
+URxvt.font:xft:Bitstream Vera Sans Mono-13
+URxvt.internalBorder: 0
+URxvt.externalBorder: 0
